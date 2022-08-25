@@ -1,0 +1,30 @@
+
+2020-3-30 14:58:4
+Error: getaddrinfo ENOTFOUND mailhub.utc.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26) {
+  errno: 'ENOTFOUND',
+  code: 'EDNS',
+  syscall: 'getaddrinfo',
+  hostname: 'mailhub.utc.com',
+  command: 'CONN'
+}
+
+2020-3-30 14:58:10
+Error: getaddrinfo ENOTFOUND mailhub.utc.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26) {
+  errno: 'ENOTFOUND',
+  code: 'EDNS',
+  syscall: 'getaddrinfo',
+  hostname: 'mailhub.utc.com',
+  command: 'CONN'
+}
+
+2020-4-24 22:56:9
+Error: getaddrinfo ENOTFOUND mailhub.utc.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26) {
+  errno: 'ENOTFOUND',
+  code: 'EDNS',
+  syscall: 'getaddrinfo',
+  hostname: 'mailhub.utc.com',
+  command: 'CONN'
+}
